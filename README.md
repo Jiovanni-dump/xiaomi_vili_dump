@@ -1,0 +1,14 @@
+# missi_phone_global-user 14 UKQ1.231207.002 V816.0.17.0.UKDMIXM release-keys
+- manufacturer: xiaomi
+- platform: lahaina
+- codename: vili
+- flavor: missi_phone_global-user
+- release: 14
+- id: UKQ1.231207.002
+- incremental: V816.0.17.0.UKDMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/vili/vili:13/RKQ1.211001.001/V816.0.17.0.UKDMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi_phone_global-user-14-UKQ1.231207.002-V816.0.17.0.UKDMIXM-release-keys
+- repo: xiaomi_vili_dump
